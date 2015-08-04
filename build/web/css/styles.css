@@ -1,0 +1,25 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22.7.2015, 23:13:03
+    Author     : david
+*/
+#nadpis{float: none;width: 100%;font-family: fantasy;text-align: center; color: white}
+#bodys{background-color: black}
+#doplpsov{border-style: solid;border-width: 20px;}
+#doplpes{border-style: solid;border-width: 20px;}
+#tabulka{width: 50%;float: left;background-color: brown;height: 100%}
+#tabulka2{width: 50%;float: right;background-color: appworkspace;height: 100%}
+#rokpsa{border-style: solid;border-width: 20px;}
+#vyberpsov{border-style: solid;border-width: 20px;}
+#vicjakjedenpes{border-style: solid;border-width: 20px;}
+#srovnejtabulku{border-style: solid;border-width: 20px;}
+#levyblok{float:left;background-color: lime;width:50%;height: 100%;font-size: 8pt}
+#pravybok{float:right;background-color: orange;width:50%;height: 100%;font-size: 8pt}
+#vsechno{width: 100%;height: 100%}
+#table1{float: inside}
+#stred{clear: both;font-size: 10pt}
+#spodek{clear: both}
